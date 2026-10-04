@@ -7,4 +7,4 @@ A: git init
 A: It is bad, you need to describe what you've done so it is understandable for others, to know what you did with the project. 
 
 
-Ahmed Kamal.
+Ahmed Kamal
